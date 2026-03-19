@@ -46,4 +46,10 @@ All images appearing in the images directory contain the author (sometimes this 
 * New wallpapers may be suggested by opening a pull request, but as this is a personal wallpaper collection, it is up to my discretion whether or not the wallpaper will be accepted
 * If you are able to find or create higher resoluion versions of the existing wallpapers, feel free to do so and open a PR. Images should be at least 1920x1080, the preferrable size is 3840x2160, larger than this is not necessary. Note that a resized image is not considered higher resolution, however, an image upscaled using an AI image restoration model can be used if the output is not pixelated or blurry.
 * Issues and pull requests regarding improvements to the website or API are welcome
+* ## Image Gallery
+
+<img src="images/acoolrocket-dalle2-hokusai-non-prompt-landscape.png" width="100%" />
+<img src="images/alejagalesa-another-world.jpg" width="100%" />
+<img src="images/alejagalesa-calm-day.jpg" width="100%" />
+<img src="images/alejagalesa-camp.jpg" width="100%" />
 
